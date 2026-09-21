@@ -1,6 +1,6 @@
 @echo off
 call build.bat
 pause
-if exist s1erz.bin (
-	start s1erz.bin
+if exist s1erzharder.bin (
+	start s1erzharder.bin
 )
